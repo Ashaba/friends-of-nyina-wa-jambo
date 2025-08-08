@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Urugo",
+    "apparitions": "Ubwigaragarane",
+    "prayers": "Amasengesho",
+    "sevenSorrows": "Chapelet y'Ububabare Bunani",
+    "holyRosary": "Chapelet Ntagatifu",
+    "saints": "Abera",
+    "events": "Ibyabaye",
+    "media": "Amashusho",
+    "contact": "Duhumurizane",
+    "newsletter": "Itangazo",
+    "subscribe": "Kwiyandikisha"
+  },
+  "home": {
+    "title": "Inshuti za Nyina wa Jambo",
+    "subtitle": "Gutanga ubutumwa bwa Nyina wa Jambo wa Kibeho no kwicuza ubwoba bw'Ububabare Bunani bwa Mariya",
+    "learnAboutKibeho": "Menya ku Kibeho",
+    "sevenSorrowsRosary": "Chapelet y'Ububabare Bunani",
+    "discoverTitle": "Menya Nyina wa Jambo wa Kibeho",
+    "aboutTitle": "Nyina wa Jambo wa Kibeho",
+    "joinCommunity": "Injira mu Muryango Wacu",
+    "stayConnected": "Komeza uhuze n'umuryango wacu ukakira ubuyobozi bw'ubwiyunge, amakuru y'ibyabaye, n'ibintu byoroshya",
+    "subscribeNewsletter": "Kwiyandikisha ku Itangazo",
+    "getInTouch": "Duhumurizane"
+  },
+  "messageOfDay": {
+    "title": "Ubutumwa bw'Umunsi",
+    "source": "Nyina wa Jambo wa Kibeho"
+  },
+  "featuredCards": {
+    "apparitions": {
+      "title": "Ubwigaragarane",
+      "description": "Wige ku bigaragara byiza bya Nyina wa Jambo hagati ya 1981-1989"
+    },
+    "sevenSorrows": {
+      "title": "Ububabare Bunani",
+      "description": "Tekereza ku Chapelet y'Ububabare Bunani yaguwe i Kibeho"
+    },
+    "saints": {
+      "title": "Abera b'Umunsi",
+      "description": "Menya umwera w'umunsi n'inkuru zabo zishimishije"
+    },
+    "events": {
+      "title": "Ibyabaye",
+      "description": "Injira mu ngendo z'ubucengezi n'amatsinda yo gusenga muri Ubuganda na Rwanda"
+    }
+  },
+  "about": {
+    "text1": "Hagati ya 1981 na 1989, Bikira Mariya yagaragaye ku rubyiruko rwinshi i Kibeho, mu Rwanda. Yaje nka \"Nyina wa Jambo\" (Nyina w'Ijambo) kugira aguhamagarire abantu guhinduka, ubwiyunge, no gusenga.",
+    "text2": "Nyina wa Jambo yaguye ubwoba bw'Ububabare bwe Bunani kandi yaraburiye ku bibazo bizaza mu gihe atanga ibyiringiro binyuze mu masengesho no gukora ubugeni. Ubutumwa bwe bukomeje kuba bwiza uyu munsi nk'uko bwari bumeze icyo gihe.",
+    "readFullStory": "Soma Inkuru Yose",
+    "keyMessages": "Ubutumwa Bw'ingenzi",
+    "messages": {
+      "rosary": "Senga Chapelet buri munsi",
+      "penance": "Kora ubugeni no kuraguza",
+      "reconciliation": "Shaka ubwiyunge n'abandi",
+      "sorrows": "Tekereza ku Ububabare Bunani",
+      "conversion": "Hindura imitima yanyu kuri Imana"
+    }
+  },
+  "footer": {
+    "description": "Gutanga ubutumwa bwa Nyina wa Jambo wa Kibeho no kwicuza ubwoba bw'Ububabare Bunani bwa Mariya. Twinjire mu masengesho no mu ngendo z'ubucengezi mu kugera imbere hamagarwa guhinduka no kwihuza.",
+    "copyright": "© 2024 Inshuti za Nyina wa Jambo. Uburenganzira bwose burarinzwe.",
+    "quickLinks": "Ihuza Byihuse",
+    "connect": "Ihuza",
+    "kibehoApparitions": "Ubwigaragarane bwa Kibeho",
+    "sevenSorrowsRosary": "Chapelet y'Ububabare Bunani",
+    "holyRosary": "Chapelet Ntagatifu",
+    "dailySaints": "Abera ba Buri munsi",
+    "mediaGallery": "Ububiko bw'Amashusho",
+    "privacyPolicy": "Politike y'Ibanga"
+  },
+  "common": {
+    "loading": "Gukora...",
+    "error": "Habaye ikosa",
+    "close": "Gufunga",
+    "submit": "Kohereza",
+    "cancel": "Kuraguza",
+    "save": "Kubika",
+    "delete": "Gusiba",
+    "edit": "Guhindura",
+    "view": "Kureba",
+    "next": "Ikurikira",
+    "previous": "Ibambere",
+    "search": "Gushakisha",
+    "filter": "Gutoranya",
+    "all": "Byose"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Home",
+    "apparitions": "Apparitions",
+    "prayers": "Prayers",
+    "sevenSorrows": "Seven Sorrows Rosary",
+    "holyRosary": "Holy Rosary",
+    "saints": "Saints",
+    "events": "Events",
+    "media": "Media",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "subscribe": "Subscribe"
+  },
+  "home": {
+    "title": "Friends of Nyina wa Jambo",
+    "subtitle": "Promoting the message of Our Lady of Kibeho and the devotion to the Seven Sorrows of Mary",
+    "learnAboutKibeho": "Learn About Kibeho",
+    "sevenSorrowsRosary": "Seven Sorrows Rosary",
+    "discoverTitle": "Discover Our Lady of Kibeho",
+    "aboutTitle": "Our Lady of Kibeho",
+    "joinCommunity": "Join Our Community",
+    "stayConnected": "Stay connected with our community and receive spiritual guidance, event updates, and inspiring content",
+    "subscribeNewsletter": "Subscribe to Newsletter",
+    "getInTouch": "Get in Touch"
+  },
+  "messageOfDay": {
+    "title": "Message of the Day",
+    "source": "Our Lady of Kibeho"
+  },
+  "featuredCards": {
+    "apparitions": {
+      "title": "Apparitions",
+      "description": "Learn about the miraculous appearances of Our Lady between 1981-1989"
+    },
+    "sevenSorrows": {
+      "title": "Seven Sorrows",
+      "description": "Meditate on the Seven Sorrows Rosary revealed at Kibeho"
+    },
+    "saints": {
+      "title": "Daily Saints",
+      "description": "Discover the saint of the day and their inspiring stories"
+    },
+    "events": {
+      "title": "Events",
+      "description": "Join pilgrimages and prayer groups in Uganda and Rwanda"
+    }
+  },
+  "about": {
+    "text1": "Between 1981 and 1989, the Blessed Virgin Mary appeared to several young people in Kibeho, Rwanda. She came as \"Nyina wa Jambo\" (Mother of the Word) to call humanity to conversion, reconciliation, and prayer.",
+    "text2": "Our Lady revealed the devotion to her Seven Sorrows and warned of coming trials while offering hope through prayer and penance. Her message remains as relevant today as it was then.",
+    "readFullStory": "Read the Full Story",
+    "keyMessages": "Key Messages",
+    "messages": {
+      "rosary": "Pray the Rosary daily",
+      "penance": "Practice penance and fasting", 
+      "reconciliation": "Seek reconciliation with others",
+      "sorrows": "Meditate on the Seven Sorrows",
+      "conversion": "Convert your hearts to God"
+    }
+  },
+  "footer": {
+    "description": "Promoting the message of Our Lady of Kibeho and the devotion to the Seven Sorrows of Mary. Join us in prayer and pilgrimage as we follow the call to conversion and reconciliation.",
+    "copyright": "© 2024 Friends of Nyina wa Jambo. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "kibehoApparitions": "Kibeho Apparitions",
+    "sevenSorrowsRosary": "Seven Sorrows Rosary",
+    "holyRosary": "Holy Rosary",
+    "dailySaints": "Daily Saints",
+    "mediaGallery": "Media Gallery",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "close": "Close",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All"
+  }
+}

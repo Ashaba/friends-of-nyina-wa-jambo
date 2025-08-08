@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "apparitions": "Apparitions",
+    "prayers": "Prières",
+    "sevenSorrows": "Rosaire des Sept Douleurs",
+    "holyRosary": "Saint Rosaire",
+    "saints": "Saints",
+    "events": "Événements",
+    "media": "Médias",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "subscribe": "S'abonner"
+  },
+  "home": {
+    "title": "Amis de Nyina wa Jambo",
+    "subtitle": "Promouvoir le message de Notre-Dame de Kibeho et la dévotion aux Sept Douleurs de Marie",
+    "learnAboutKibeho": "Découvrir Kibeho",
+    "sevenSorrowsRosary": "Rosaire des Sept Douleurs",
+    "discoverTitle": "Découvrir Notre-Dame de Kibeho",
+    "aboutTitle": "Notre-Dame de Kibeho",
+    "joinCommunity": "Rejoindre Notre Communauté",
+    "stayConnected": "Restez connecté avec notre communauté et recevez des conseils spirituels, des mises à jour d'événements et du contenu inspirant",
+    "subscribeNewsletter": "S'abonner à la Newsletter",
+    "getInTouch": "Nous Contacter"
+  },
+  "messageOfDay": {
+    "title": "Message du Jour",
+    "source": "Notre-Dame de Kibeho"
+  },
+  "featuredCards": {
+    "apparitions": {
+      "title": "Apparitions",
+      "description": "Découvrez les apparitions miraculeuses de Notre-Dame entre 1981-1989"
+    },
+    "sevenSorrows": {
+      "title": "Sept Douleurs",
+      "description": "Méditez sur le Rosaire des Sept Douleurs révélé à Kibeho"
+    },
+    "saints": {
+      "title": "Saints du Jour",
+      "description": "Découvrez le saint du jour et leurs histoires inspirantes"
+    },
+    "events": {
+      "title": "Événements",
+      "description": "Rejoignez les pèlerinages et groupes de prière en Ouganda et au Rwanda"
+    }
+  },
+  "about": {
+    "text1": "Entre 1981 et 1989, la Sainte Vierge Marie est apparue à plusieurs jeunes à Kibeho, au Rwanda. Elle est venue comme \"Nyina wa Jambo\" (Mère du Verbe) pour appeler l'humanité à la conversion, à la réconciliation et à la prière.",
+    "text2": "Notre-Dame a révélé la dévotion à ses Sept Douleurs et a averti des épreuves à venir tout en offrant l'espoir par la prière et la pénitence. Son message reste aussi pertinent aujourd'hui qu'il l'était alors.",
+    "readFullStory": "Lire l'Histoire Complète",
+    "keyMessages": "Messages Clés",
+    "messages": {
+      "rosary": "Priez le Rosaire quotidiennement",
+      "penance": "Pratiquez la pénitence et le jeûne",
+      "reconciliation": "Cherchez la réconciliation avec les autres",
+      "sorrows": "Méditez sur les Sept Douleurs",
+      "conversion": "Convertissez vos cœurs à Dieu"
+    }
+  },
+  "footer": {
+    "description": "Promouvoir le message de Notre-Dame de Kibeho et la dévotion aux Sept Douleurs de Marie. Rejoignez-nous dans la prière et le pèlerinage alors que nous suivons l'appel à la conversion et à la réconciliation.",
+    "copyright": "© 2024 Amis de Nyina wa Jambo. Tous droits réservés.",
+    "quickLinks": "Liens Rapides",
+    "connect": "Connexion",
+    "kibehoApparitions": "Apparitions de Kibeho",
+    "sevenSorrowsRosary": "Rosaire des Sept Douleurs",
+    "holyRosary": "Saint Rosaire",
+    "dailySaints": "Saints Quotidiens",
+    "mediaGallery": "Galerie Média",
+    "privacyPolicy": "Politique de Confidentialité"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "close": "Fermer",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Sauvegarder",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "all": "Tout"
+  }
+}
